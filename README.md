@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SajjadRizvi04
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently doing projects on HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on Open source Front-End Projects
 - 📫 Email:- rizvisajjad80@gmail.com
 
